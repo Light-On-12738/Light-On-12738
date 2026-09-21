@@ -34,9 +34,9 @@ Buscamos facilitar tanto la gestión de sus procesos como el uso, mantenimiento 
 
 ## Nuestros valores
 
-**Innovación** 
-**Precisión** 
-**Enfoque al usuario**
-**Transparencia**
-**Adaptabilidad**
-**Eficiencia**
+| **Innovación** |
+| **Precisión** |
+| **Enfoque al usuario** |
+| **Transparencia** |
+| **Adaptabilidad** |
+| **Eficiencia** |
